@@ -28,10 +28,6 @@ h1 {
   padding: 2%;
 }
 
-section {
-  background-color: #808080;
-}
-
 img {
   display: block;
   margin: 10% auto;
@@ -39,8 +35,6 @@ img {
 }
 
 .active {
-  background-color: #e2e61a;
-  color: green;
   opacity: 1;
 }
 
@@ -52,12 +46,11 @@ img {
 }
 
 .right {
+  padding-left: 1%;
   display: inline-block;
   float: right;
-  width: 60%;
-  overflow: auto;
-  height: 100vh;
-  padding-left: 1%;
+  width: 77%;
+  margin-top: 10px;
   padding-right: 2%;
 }
 
